@@ -8,7 +8,7 @@ const Contact = () => {
                 <form action="" className='flex flex-col gap-4  '>
                     <div>
                         <h1 className='text-4xl font-bold border-b-4 border-pink-600 inline'>Contact</h1>
-                        <p className='py-4 mb-4 '>//Submit the form below or shoot me an email - saranshsharma12345@gmail.com</p>
+                        <p className='py-4 mb-4 '>Submit the form below or shoot me an email - saranshsharma12345@gmail.com</p>
                     </div>
 
                     <input type="text" placeholder='Name' className='p-2  bg-[#ccd6f6]' />
